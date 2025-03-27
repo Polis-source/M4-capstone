@@ -9,3 +9,6 @@ To begin, follow the steps listed on [GitHub](https://docs.github.com/en/reposit
 ## Installing required packages
 Running the following command in your command prompt will install all needed packages to ensure the file runs correctly on your device
 ```pip install -r requirements.txt```
+
+## Data Sourcing
+Housing data was pulled directly from the Federal [Reserve of St. Louis](https://fred.stlouisfed.org/) and is current as of 3/27/2024
