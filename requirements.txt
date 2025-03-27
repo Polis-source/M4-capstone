@@ -1,0 +1,4 @@
+Requirements for running the project:
+
+1) Python environment of your choice. Project was written in VSCode
+2) Install required packages; numpy, Matplotlib.pyplot, and pandas
